@@ -30,7 +30,7 @@ src/
 - Clonar el repositorio
 
 ``` bash
-git clone https://github.com/tu_usuario/tu_repo.git
+git clone https://github.com/MAGZ014/Spring-Boot-MySQL-con-Docker.git
 cd tu_repo
 ```
 
